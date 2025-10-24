@@ -17,7 +17,7 @@ class CalculadoraTestTest {
     public void testSubt()
     {
         CalculadoraTest calc=new CalculadoraTest();
-        assertEquals(1,calc.soma(3,2));
+        assertEquals(1,calc.subtrai(3,2));
     }
 
 }
